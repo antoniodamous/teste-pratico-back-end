@@ -19,6 +19,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Dependências: H2/ Spring Web/ Spring Data JPA/ Spring Secutiry
 - API: http://developers.infotravel.com.br/
 
+## Método GET
+
+### Endpoints da Webservice:
+
+- Listagem de hotéis: `GET: /search/{destination}/{start}/{end}/{occupancy}`
+- Detalhe do Hotel: `GET: /hotel/{keyDetail}`
+
+### Endpoints da API:
+
+- Autenticação: `GET: /authenticate`
+- Listagem de hotéis: `GET: /avail/hotel?destination={destination}&start={start}&end={end}&occupancy={occupancy}`
+- Detalhe do hotel: `/GET: /utility/hotelDetail/{keyDetail}`
+
 ## 🔗 Links
 
 <p align="center">
