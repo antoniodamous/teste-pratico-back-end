@@ -2,7 +2,9 @@
 
 > Hotel Search API 🏨
 
-![preview](./.github/preview.png) - Imagem em construção
+## Modelagem URI em REST
+
+![](https://github.com/antoniodamous/teste-pratico-back-end/blob/main/Modelagem%20URI%20em%20REST.drawio.png?raw=true)
 
 ## 📝 Descrição
 
